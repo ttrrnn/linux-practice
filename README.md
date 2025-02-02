@@ -2,7 +2,7 @@
 A place for me to dump Linux things while I study
 
 ## Linux Cheat Sheet
-Linux commands and sheel scripting
+Linux commands and shell scripting
 
 ### Introduction to Linux
 
